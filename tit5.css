@@ -1,0 +1,31 @@
+.hod{
+    background-image: url('https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    height:700px;
+    width:1500px;
+}
+.def{
+    height:330px;
+    width:245px;
+    background-size: cover;
+    border-radius: 470px;
+}
+.fac{
+    margin:2px;
+    padding:2px;
+    border:2px;
+}
+.bar{
+    font-family: fantasy;
+}
+.rar{
+    font-family: cursive;
+}
+.dar{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0 0 3px white;
+}
+.kal{
+    text-shadow: 0 0 3px blueviolet;
+}
